@@ -1,0 +1,3001 @@
+{
+    "domain": "masked_domain",
+    "is_dga": false,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 13
+}{
+    "domain": "81--6---ti45abi4.net",
+    "is_dga": false,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "0---------8-----1c7d458347b0633b.co.cc",
+    "is_dga": false,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "9--4460-0b---1-11c7d458347b0633b.cz.cc",
+    "is_dga": false,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "0---------------1c7d458347b0633b.info",
+    "is_dga": true,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 32
+}{
+    "domain": "0----5-290065--c1c7d458347b0633b.org",
+    "is_dga": true,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 32
+}{
+    "domain": "9--5--6-tf5nhq2z.com",
+    "is_dga": true,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "0-0-0-2-bdx2ki75.net",
+    "is_dga": true,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "01----1-ngax588w.biz",
+    "is_dga": true,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "7-------p2nes1k5.net",
+    "is_dga": true,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "909-88--d5oapqin.biz",
+    "is_dga": true,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "31--c-x1vjeve81v.biz",
+    "is_dga": true,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "3--m--8-vanxao5c.info",
+    "is_dga": true,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "7----------8-f--d7e5a120bdbda4b8.co.cc",
+    "is_dga": true,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "926725-c--194--0d7e5a120bdbda4b8.cz.cc",
+    "is_dga": true,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "0-737-1-71-8---3d7e5a120bdbda4b8.info",
+    "is_dga": true,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 32
+}{
+    "domain": "6-------7-1--f--d7e5a120bdbda4b8.org",
+    "is_dga": true,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 32
+}{
+    "domain": "0-d-bo9u.ru",
+    "is_dga": false,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 32
+}{
+    "domain": "7-------iqkv22w6.org",
+    "is_dga": true,
+    "high_consonants": "",
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "036-m2shzdgrfcd6.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "4-99d8-3-965--9-9187d03df6fdd929.co.cc",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "0-9------0---7979187d03df6fdd929.cz.cc",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "5-4---86-53-5-0-9187d03df6fdd929.info",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": "",
+    "long_domain": 32
+}{
+    "domain": "078--9-2812657939187d03df6fdd929.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": "",
+    "long_domain": 32
+}{
+    "domain": "0-j7-15-resqrx08.ru",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "03oyiu--npqdhnu8.cn",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "0-59--e1fpdbn7lh.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "0------e--------07c8c8c70ed1c202.co.cc",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "8-1-6f-e4947-bc-07c8c8c70ed1c202.cz.cc",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "041-6fde8941bb-e07c8c8c70ed1c202.info",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "0-6-6-----------07c8c8c70ed1c202.org",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 32
+}{
+    "domain": "2--4----d8ueqqo1.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "7-------gb0ljrwc.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "1---------------1e065dcce3fd0887.co.cc",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "0--1--4------4211e065dcce3fd0887.cz.cc",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "0--7-d-----5----1e065dcce3fd0887.info",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 32
+}{
+    "domain": "0-f-1-6---0-10-31e065dcce3fd0887.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 32
+}{
+    "domain": "0--381--sdfalpl8.cn",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "843-3445-234-16886dd9be0a8020470.co.cc",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "07--------------86dd9be0a8020470.cz.cc",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "0-16-5---e-7--8686dd9be0a8020470.info",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 32
+}{
+    "domain": "0--6-5--6------686dd9be0a8020470.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 32
+}{
+    "domain": "3--2j--3j1xxdzs1.cn",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "7--h--l0up3g6asm.biz",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "0-4--8--0rsdh5i4.ru",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "25--e--a4aylhci2.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "06-mdla9p6n0etm0.info",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "8--5----h3atwno4.com",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "23--------0-----4962a5ce138ff3fc.co.cc",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "5--5-4-3-4------4962a5ce138ff3fc.cz.cc",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 16
+}{
+    "domain": "0------e--------4962a5ce138ff3fc.info",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 32
+}{
+    "domain": "2---------------4962a5ce138ff3fc.org",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 32
+}{
+    "domain": "4145384-28-9222457cc9c8b3effe032.co.cc",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 32
+}{
+    "domain": "0-----6---d-1---57cc9c8b3effe032.cz.cc",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": "",
+    "long_domain": 32
+}{
+    "domain": "0889a3684--0--1657cc9c8b3effe032.info",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 3.8042292966721747,
+    "long_domain": 32
+}{
+    "domain": "07--a36b4f-4167-57cc9c8b3effe032.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "0-------m1lyozi2.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "70--es0-52l86dev.ru",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0---------------fce2ca2909614997.co.cc",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0-11816503e3-8--fce2ca2909614997.cz.cc",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "4-----4--c----8-fce2ca2909614997.info",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "68------7---2---fce2ca2909614997.org",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "04----c38211.net",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "09-042c38219.net",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "09----c38278.net",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "2-1---c382d4.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "083-55-5d9tirh4x.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "69------rqoyv8tt.ru",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "5-------ar87699r.cn",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0a--2-----c---e-4f0754f0243f3b3b.co.cc",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "2-54-7-082874-524f0754f0243f3b3b.cz.cc",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0--6--------6-1-4f0754f0243f3b3b.info",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "4-05------599-6-4f0754f0243f3b3b.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "58-83-w-qlsaf267.biz",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0----1--sqn8vynk.info",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "926b1-53zt06hhed.cn",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "7-------gt69g9tn.ru",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "3056-90-yg2k2my7.biz",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "04-4--0-f-7--90ddf3981672d4a7ac4.co.cc",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0--f---5--54--0-df3981672d4a7ac4.cz.cc",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "07a41865-35-7-04df3981672d4a7ac4.info",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "7------3--------df3981672d4a7ac4.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "7-----1-ccwpie7x.biz",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "8--s---6cz7mtr6j.cn",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "07--5-98f6dxntwd.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "9b5-v865m7aell5q.info",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "8-----21s0n8jona.cn",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0-u-250452okvhbk.ru",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0-3--0-v2sgs2r6o.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "6-------s396nvi2.cn",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "63--v53-p1rlui11.info",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "6-96297-02b635e-ab5f0e1159f35614.co.cc",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "1-9---6-42--1---ab5f0e1159f35614.cz.cc",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "9-981--85-28492-ab5f0e1159f35614.info",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "0792293a85---5efab5f0e1159f35614.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "7-6-----79fsqdfg.biz",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "3-1503-12qm51wef.ru",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "077-ce-6kpe969p0.info",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "058-e9c5e798-5--2442e45e8dec00de.co.cc",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0--67-1--5-e2---2442e45e8dec00de.cz.cc",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "2----8-2-----4--2442e45e8dec00de.info",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "3645821236-120-82442e45e8dec00de.org",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "0------51eu7jqtd.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0-------0sq35elb.info",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0--0266-9q8ls9nq.cn",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "1-------7wy0t7q8.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "058-0--0973pt2l3.info",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "02------6l0z0cti.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "7500-77----5-80-331d4a2f515346ef.co.cc",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "7e33042794666-42331d4a2f515346ef.cz.cc",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0----4------c-42331d4a2f515346ef.info",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "0e37d-97-166cf47331d4a2f515346ef.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "0----a-19--5---636cb5ceeaf581174.co.cc",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "92731361d-6026--36cb5ceeaf581174.cz.cc",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "0--fb-8-d---52--36cb5ceeaf581174.info",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "07---a8--c6-1---36cb5ceeaf581174.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "0efz-n4-alpdnxdd.cn",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "0--6-86a98daijm4.cn",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "58-05-8-678090j0.info",
+    "is_dga": false,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0-05-------8----1582669fd58e64f0.co.cc",
+    "is_dga": false,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0-0--6----------1582669fd58e64f0.cz.cc",
+    "is_dga": false,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0--67d0--96-4---1582669fd58e64f0.info",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "7-0-7d-6c-6-4--01582669fd58e64f0.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 32
+}{
+    "domain": "3-394s-4mgzq2m56.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "8------ufmfi8vl6.ru",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0-52---rt5m1ke8k.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "3g8-u-18yj9xlhae.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0-------pbg202z5.biz",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "52bku---uhq2d6a8.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "1--1-kb-epm520uh.info",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0-----26st1rliz4.org",
+    "is_dga": false,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "045--592zerojszo.info",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "2---31--oawj4ufp.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "9-------44o2p0zs.info",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0957--p0vb1tbi90.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "3-------7bi94uwv.ru",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "3-5-----m1gw39sn.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0k------wd6a6qrz.biz",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0k-74---hpkfe2jp.cn",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "49-26---u49sddbw.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "8----5--122b5fz3.biz",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0--56---ozhzn59j.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "7-36au7-cai3yp4p.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8431390622295662,
+    "long_domain": 16
+}{
+    "domain": "0lm3d-p75rox2h5j.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "8------3gl29jge9.cn",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "4----0-1ze6scrfe.org",
+    "is_dga": false,
+    "high_consonants": 10,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0--a----knb3zsrc.ru",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0n9--i-05rnb1qlc.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0-c---isa7uxnlzq.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0--4v-1225wja4ti.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0--852t-k0lygazp.ru",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "53-----zjdy0evpf.biz",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0p3l501-qrth6fnr.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "7-----4399m7nljd.biz",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "06--i--tr5j7mvx1.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0-2-----99z1w56w.ru",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "3--8-5--u6con3wg.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0qt-z23vfftuvxmt.info",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "77----7-qy2jnyap.cn",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "9-27b---l7wd49op.ru",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0r-----nw5o7gnw3.cn",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "4-----01f90cfar3.com",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0-------83fwfak7.ru",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0-p8ps270upu4hnq.org",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0s9g-8q03vvyobof.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0-------qwdyto5y.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0-------7gj54b0j.ru",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0---3--r99z2n1tn.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0-------o4rszd4g.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "066z--9-mmi4o8if.biz",
+    "is_dga": false,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "049--5--glk4qe3f.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "9-2b1---p33l7woy.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "8-------nii5dk8q.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "5-------mmun28j1.cn",
+    "is_dga": false,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "8-------uje8i7fk.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "9uj-2--vw4kyc1jp.info",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0-026810teur53pi.biz",
+    "is_dga": false,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "08b----9ialodvxd.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "6-l1---4sv50ocre.org",
+    "is_dga": false,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "17--05-6h1hpdrh7.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0-------2ocr8iq5.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0x--2---gr436uvs.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "4--0-3--fgo2sctg.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "1-------nyxl28gp.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "6-14--4-7x6i01u9.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "3------03ikrs2d8.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0--w--6-0mkvclyf.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0--l80-71yksasax.ru",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0-----4ltb04u0b3.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0y89-0ni7ao5nnvc.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0z1-u--h9za40ap3.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "0----0--zijijq9c.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "58--3---wv6pxomx.info",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "01b3-5k0ulu9x49a.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "364-90-2z63kltyd.ru",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "6z---t--fgr0a084.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "35u-72--ey2jt60y.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.875,
+    "long_domain": 16
+}{
+    "domain": "3-52---1--095a1kblzeuwytwvr.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.9582291686698783,
+    "long_domain": 16
+}{
+    "domain": "10-0d--4kd1o-ubow53e16u78k9.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.912113890972229,
+    "long_domain": 16
+}{
+    "domain": "505--5656t-92dh8azl1sm6fic.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.026986833359287,
+    "long_domain": 16
+}{
+    "domain": "5---34-------1vw11rz1uwzwyw.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.026986833359287,
+    "long_domain": 16
+}{
+    "domain": "5------5t---01dxjde2z0eyna.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.026986833359287,
+    "long_domain": 16
+}{
+    "domain": "306--20-l--3-npsucsv1ak4v8v.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.026986833359287,
+    "long_domain": 16
+}{
+    "domain": "50--------4--xvbod218ihbga.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.026986833359287,
+    "long_domain": 26
+}{
+    "domain": "110------j--wk1ewxld1cybuh8.biz",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 4.026986833359287,
+    "long_domain": 26
+}{
+    "domain": "1-03-171h8kl-t1mowb641ic9ajn.com",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 4.22290749432188,
+    "long_domain": 26
+}{
+    "domain": "282518-----35deuzftrptgu.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.22290749432188,
+    "long_domain": 26
+}{
+    "domain": "50-1d--0b17-f7fjhxxd1w9i2xa.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.81008102052173,
+    "long_domain": 26
+}{
+    "domain": "92503672vv0--eiw5jrw1ttgp0a.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.134336113194451,
+    "long_domain": 26
+}{
+    "domain": "15-5gk-1f----h1lejhql9ojkv1.biz",
+    "is_dga": true,
+    "high_consonants": 12,
+    "high_entropy": 4.134336113194451,
+    "long_domain": 26
+}{
+    "domain": "10--8-73xu--p1yai7bc1f3u3qe.net",
+    "is_dga": true,
+    "high_consonants": 12,
+    "high_entropy": 3.824538780727774,
+    "long_domain": 26
+}{
+    "domain": "3-08247301478znumpf56dfn4m.net",
+    "is_dga": true,
+    "high_consonants": 12,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 26
+}{
+    "domain": "10555-c8-dn--1iztt12102lcmz.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 26
+}{
+    "domain": "1--2-0-883-1311gd765ihzen5.biz",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 26
+}{
+    "domain": "0------------1c8hg08153y0gc.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 27
+}{
+    "domain": "700-i7ddj45qn13usc1y9i8nr1.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.13294404498096,
+    "long_domain": 27
+}{
+    "domain": "40------9--37lik5o9sdrlcyj.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.13294404498096,
+    "long_domain": 27
+}{
+    "domain": "1-------94-7-k90dt4e2n1h7o.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.13294404498096,
+    "long_domain": 26
+}{
+    "domain": "1--9j3x85399j156r75x1myq86o.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.13294404498096,
+    "long_domain": 26
+}{
+    "domain": "1015--280-927dayatc3qe6ad.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.943465189601647,
+    "long_domain": 26
+}{
+    "domain": "8------------14jkrxe1cumipp.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.943465189601647,
+    "long_domain": 26
+}{
+    "domain": "1--------z--m1kll4hfuv7nya.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.943465189601647,
+    "long_domain": 26
+}{
+    "domain": "3-1a-7-5----71uq2h6o1p81fsl.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.943465189601647,
+    "long_domain": 27
+}{
+    "domain": "10-a-9-1--8-e0110r86v1mqkjam.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.943465189601647,
+    "long_domain": 28
+}{
+    "domain": "4440319-18--5h167gikq56g5z9.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.828237501842955,
+    "long_domain": 28
+}{
+    "domain": "74-----1-q-40-1sybpdj1sxk84c.net",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.828237501842955,
+    "long_domain": 28
+}{
+    "domain": "6------------z8yfkdqrexnsa.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.828237501842955,
+    "long_domain": 28
+}{
+    "domain": "1458-v01996731nyvclk1dnuh9i.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.134336113194451,
+    "long_domain": 28
+}{
+    "domain": "6-0----2h--k44x5yg017w6vta.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.134336113194451,
+    "long_domain": 28
+}{
+    "domain": "1---------p-3nc6ehlku1d0g.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.134336113194451,
+    "long_domain": 28
+}{
+    "domain": "5-0------w---1gn1qqt12yjpxm.org",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 4.134336113194451,
+    "long_domain": 28
+}{
+    "domain": "77-1---1-2o769h7f1oh1hqsh5z.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.134336113194451,
+    "long_domain": 28
+}{
+    "domain": "1------------10zhy179z2ikr.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.134336113194451,
+    "long_domain": 26
+}{
+    "domain": "23262-80-2---1cio1jv11xv6ka.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.134336113194451,
+    "long_domain": 27
+}{
+    "domain": "3-28-----h60e5k3mdfevptyn.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.863465189601647,
+    "long_domain": 27
+}{
+    "domain": "4070-z-180---zxqmkuf8vuqzq.biz",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.863465189601647,
+    "long_domain": 27
+}{
+    "domain": "15831368--u7-1l3a90e1ss6pes.biz",
+    "is_dga": false,
+    "high_consonants": 11,
+    "high_entropy": 3.863465189601647,
+    "long_domain": 27
+}{
+    "domain": "12--7-1-j-r-81gw9hb0pyl6ql.com",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.8441065448145384,
+    "long_domain": 27
+}{
+    "domain": "1001sfa-yypa-1qkvnd1nu83fr.net",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.9312089489103235,
+    "long_domain": 27
+}{
+    "domain": "7-049e--fq1--1cd9r0k4ffo1m.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.9312089489103235,
+    "long_domain": 27
+}{
+    "domain": "676-i92liw6l-iiwrzs19o9ykc.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.9312089489103235,
+    "long_domain": 27
+}{
+    "domain": "5--gr0-x-----1b1opz10aqulf.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.9312089489103235,
+    "long_domain": 27
+}{
+    "domain": "1------------18gdoym16mesfc.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.9312089489103235,
+    "long_domain": 27
+}{
+    "domain": "1-0h4u7bwa-cz1ibd7evqf6ufx.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.238901256602631,
+    "long_domain": 27
+}{
+    "domain": "1072--80--3l41a4nyyl1tigdbz.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.986187965046303,
+    "long_domain": 27
+}{
+    "domain": "88-----------gpj31iakv0ics.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.986187965046303,
+    "long_domain": 26
+}{
+    "domain": "1------------1tg3lpeutulz1.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.986187965046303,
+    "long_domain": 26
+}{
+    "domain": "2--i------h-duc25ie79bfmv.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.986187965046303,
+    "long_domain": 25
+}{
+    "domain": "7909-418648-91q93ibv417692.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.986187965046303,
+    "long_domain": 26
+}{
+    "domain": "8--8-----5---z15bajhkbbmb39.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.986187965046303,
+    "long_domain": 26
+}{
+    "domain": "2-0ia-t-8e-4t67457gu3vdct.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.973660689688186,
+    "long_domain": 26
+}{
+    "domain": "1-0---m78-6whh9cvmb9n1toy.biz",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.859470570797252,
+    "long_domain": 26
+}{
+    "domain": "80246r-570dlzvygiwigl6v73.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.083856189774725,
+    "long_domain": 26
+}{
+    "domain": "5---8-3--3---hh213k1vewr1g.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.083856189774725,
+    "long_domain": 26
+}{
+    "domain": "10-7---29---01nx4qca87eruc.biz",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.083856189774725,
+    "long_domain": 26
+}{
+    "domain": "10961-b17-127fais0l0aq0nhq.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.083856189774725,
+    "long_domain": 26
+}{
+    "domain": "10----a43----p7ozw51k1iumk.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.083856189774725,
+    "long_domain": 26
+}{
+    "domain": "6-8-88---9---bnmmgi1enjflr.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.083856189774725,
+    "long_domain": 26
+}{
+    "domain": "1--m6y-81-jw6fcjk6wn7zep9.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.893660689688186,
+    "long_domain": 26
+}{
+    "domain": "1-3--9-rj-c36mwmjwh1lzr83g.net",
+    "is_dga": true,
+    "high_consonants": 13,
+    "high_entropy": 3.893660689688186,
+    "long_domain": 26
+}{
+    "domain": "56--2-1-5---7l5k5m0m1ou70e7.biz",
+    "is_dga": false,
+    "high_consonants": 13,
+    "high_entropy": 3.893660689688186,
+    "long_domain": 27
+}{
+    "domain": "10-q1k07-4xtgu8j0lx7197lz8a.net",
+    "is_dga": true,
+    "high_consonants": 13,
+    "high_entropy": 3.9302703722934536,
+    "long_domain": 27
+}{
+    "domain": "504-5-2--e0--1kjle5y6n9ng5.com",
+    "is_dga": true,
+    "high_consonants": 13,
+    "high_entropy": 3.9302703722934536,
+    "long_domain": 26
+}{
+    "domain": "1------------tcg4p216fvzn7.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.9302703722934536,
+    "long_domain": 26
+}{
+    "domain": "609-5---592zn31n91sbp1n47c2o.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.869331261111518,
+    "long_domain": 26
+}{
+    "domain": "6--1251-2096-q822zo01lm1pmz.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.869331261111518,
+    "long_domain": 27
+}{
+    "domain": "3--s--54-092jlubavhhr3mwf.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.019470570797252,
+    "long_domain": 27
+}{
+    "domain": "1-0--s-------8z72kw19ao3we.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.019470570797252,
+    "long_domain": 26
+}{
+    "domain": "40-1-552-6rm-1ex0tnj1vc2yro.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.986187965046303,
+    "long_domain": 26
+}{
+    "domain": "1------------ne2vzmoblph0c.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.986187965046303,
+    "long_domain": 26
+}{
+    "domain": "50419389-733212r2y9u1fhjraa.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.902311575917029,
+    "long_domain": 26
+}{
+    "domain": "100--6t16-3-t7gvyum1b5djyy.com",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.902311575917029,
+    "long_domain": 26
+}{
+    "domain": "190v---9--y414snsdtlht8x8n.net",
+    "is_dga": true,
+    "high_consonants": 12,
+    "high_entropy": 3.902311575917029,
+    "long_domain": 26
+}{
+    "domain": "1--v5-----3ngpt88u9rbsxz.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.902311575917029,
+    "long_domain": 26
+}{
+    "domain": "700-6-j5ydfo1ty46x71q2gt0q.biz",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 26
+}{
+    "domain": "1-------5----o1ulae0nqjhypd.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 26
+}{
+    "domain": "1---9---------1wfwqgn1o628cj.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 26
+}{
+    "domain": "8----9---2-9-pud2mw1jxgnu8.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 26
+}{
+    "domain": "1-0x74q--6o-9x1u7myqpajkht5.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.162294909570876,
+    "long_domain": 26
+}{
+    "domain": "32-430q-3-03ezlcyyomgw4sx.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.893660689688186,
+    "long_domain": 26
+}{
+    "domain": "1------------1spf3zp1vovkla.biz",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.893660689688186,
+    "long_domain": 26
+}{
+    "domain": "100-r1l----6fwzsgn4fu90u.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.893660689688186,
+    "long_domain": 26
+}{
+    "domain": "1010-60p---q6134k0ce1ofd400.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.893660689688186,
+    "long_domain": 27
+}{
+    "domain": "1-------------1ntwu371xqw9iu.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.893660689688186,
+    "long_domain": 28
+}{
+    "domain": "5-10----0-6-399n8edkipoye.com",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 3.893660689688186,
+    "long_domain": 25
+}{
+    "domain": "9392---2645-1yja5lcvzu43as.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.9312089489103235,
+    "long_domain": 25
+}{
+    "domain": "902--6y36a118u1g7dsugda7m05.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.986187965046303,
+    "long_domain": 25
+}{
+    "domain": "4------41---o1rifw0wis8z8f.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.986187965046303,
+    "long_domain": 26
+}{
+    "domain": "4-967j5805260wapwhoct9vu8.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.163856189774725,
+    "long_domain": 26
+}{
+    "domain": "10-7--b-6-0-g8z0t81lktore.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.163856189774725,
+    "long_domain": 26
+}{
+    "domain": "1------7-----xwb57du1fgt8l3.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.163856189774725,
+    "long_domain": 26
+}{
+    "domain": "18------------179q41e1n17um2.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.163856189774725,
+    "long_domain": 28
+}{
+    "domain": "2061n-p1-4--72wv3mld1bdbey.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 28
+}{
+    "domain": "101--kn--62-8g3a80u1wlnhiy.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.840265565194928,
+    "long_domain": 28
+}{
+    "domain": "7-----7-----wz4ksv1f0zf3j.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.840265565194928,
+    "long_domain": 28
+}{
+    "domain": "1046nlr-mw7-j75w1jd1phppmh.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.873140679513133,
+    "long_domain": 28
+}{
+    "domain": "1135-b572-z1a1t8drbb1i67j.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.873140679513133,
+    "long_domain": 28
+}{
+    "domain": "2--7----2----1gz2s7syae0ik.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.873140679513133,
+    "long_domain": 26
+}{
+    "domain": "909-5---h8---p114l6tyn7l6fc.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.873140679513133,
+    "long_domain": 26
+}{
+    "domain": "2--8-----67-j1huh2eq1yg5vpi.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.873140679513133,
+    "long_domain": 26
+}{
+    "domain": "0-453--------aewwxa1j5z4dk.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.873140679513133,
+    "long_domain": 26
+}{
+    "domain": "161---42u6---1kkv9pr105rod0.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.873140679513133,
+    "long_domain": 27
+}{
+    "domain": "10-9231ha--5gy3fnvl79vbzc.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.133660689688186,
+    "long_domain": 27
+}{
+    "domain": "101131w1-7-d0v11uoezi9emmo0.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.133660689688186,
+    "long_domain": 27
+}{
+    "domain": "1---7---h----1vd375z7lelgn.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.133660689688186,
+    "long_domain": 27
+}{
+    "domain": "5-1-4----0-7-148sl28atbsq9.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.133660689688186,
+    "long_domain": 26
+}{
+    "domain": "0014-1j56m360g84pj741koe06s.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8561962982193796,
+    "long_domain": 26
+}{
+    "domain": "1---5-------z2o0aoun3tmf2.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8561962982193796,
+    "long_domain": 25
+}{
+    "domain": "15----------hyhgyj6wpt4vr.biz",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.8561962982193796,
+    "long_domain": 25
+}{
+    "domain": "178414-14t0rp17owa61il5e68.org",
+    "is_dga": false,
+    "high_consonants": 11,
+    "high_entropy": 3.840265565194928,
+    "long_domain": 25
+}{
+    "domain": "10-b-85q405-mq3ayhxalkxwt.biz",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 4.0536606896881855,
+    "long_domain": 25
+}{
+    "domain": "649--6-04n832c1c9h3u8t58i8s.org",
+    "is_dga": false,
+    "high_consonants": 11,
+    "high_entropy": 3.912113890972229,
+    "long_domain": 25
+}{
+    "domain": "101093l433-6a4ypof7fx9giwq.com",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 4.13294404498096,
+    "long_domain": 25
+}{
+    "domain": "10--3km1h9ax-108spgs1skiqd7.net",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.9582291686698783,
+    "long_domain": 25
+}{
+    "domain": "00-d----oz-15sil5brcvk0vz.org",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.9582291686698783,
+    "long_domain": 25
+}{
+    "domain": "9-0-90--z2---1vnzaov1t2yusc.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.9582291686698783,
+    "long_domain": 25
+}{
+    "domain": "1-1-m5--13-eeivw1tq1hstg60.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.9582291686698783,
+    "long_domain": 25
+}{
+    "domain": "101d-x-4-3k6-1whqvotvwg7go.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.9021748142117283,
+    "long_domain": 25
+}{
+    "domain": "1----------3uypn5aqnzjh.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.9021748142117283,
+    "long_domain": 25
+}{
+    "domain": "151er-n2o24ebhc4779817na0tr.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.032303242743953,
+    "long_domain": 25
+}{
+    "domain": "1--f-----9-5-m1lieh14byxko2.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.032303242743953,
+    "long_domain": 25
+}{
+    "domain": "10-f66---i---fitfxp5bfxhjy.org",
+    "is_dga": true,
+    "high_consonants": 12,
+    "high_entropy": 4.032303242743953,
+    "long_domain": 25
+}{
+    "domain": "111-----zap--lmo37l1qw2mv6.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.032303242743953,
+    "long_domain": 25
+}{
+    "domain": "8-178q628-0531bln33evhj2eq.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.95006375643621,
+    "long_domain": 25
+}{
+    "domain": "40----m2-9h-9tx3iaq1izesai.biz",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.95006375643621,
+    "long_domain": 26
+}{
+    "domain": "1----m----qif1zaaehq7pdmn.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.95006375643621,
+    "long_domain": 26
+}{
+    "domain": "1------------e5s3lwo18she32.com",
+    "is_dga": false,
+    "high_consonants": 10,
+    "high_entropy": 3.95006375643621,
+    "long_domain": 27
+}{
+    "domain": "1-1i67-g--23-1y4ib3rcj9fio.biz",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8112314304963326,
+    "long_domain": 27
+}{
+    "domain": "1------------1kbk45bt15xb8.biz",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8112314304963326,
+    "long_domain": 26
+}{
+    "domain": "2------------35xsgyni2ji0c.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8112314304963326,
+    "long_domain": 26
+}{
+    "domain": "111---g-fip-mxy8ut7zyosrg.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8292750707107133,
+    "long_domain": 26
+}{
+    "domain": "11-6710-90--thiaorfde0v5f.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.863465189601647,
+    "long_domain": 26
+}{
+    "domain": "038-w9-999-0-514fl3c1de8a82.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.863465189601647,
+    "long_domain": 27
+}{
+    "domain": "100---3-61-d7xvqzrhl15h8gs.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.917188642118005,
+    "long_domain": 27
+}{
+    "domain": "9----7--86---jo4e7aqw34wee.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.917188642118005,
+    "long_domain": 26
+}{
+    "domain": "001---u------1ewcxqw12iq1h3.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.917188642118005,
+    "long_domain": 27
+}{
+    "domain": "60-lz7l14--5-84dycd6bm3acd.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.9021748142117283,
+    "long_domain": 27
+}{
+    "domain": "781od5-5qn47-1rrg3in9zerph.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.13294404498096,
+    "long_domain": 27
+}{
+    "domain": "8223-6----s--1hg2opg11ts13i.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.13294404498096,
+    "long_domain": 27
+}{
+    "domain": "158-6---d3uv--1h7ipld1o1o1cm.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.13294404498096,
+    "long_domain": 27
+}{
+    "domain": "12------------1ahgzv41orqgsb.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.13294404498096,
+    "long_domain": 27
+}{
+    "domain": "1--6----m5---8atudz1s3e7ua.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.13294404498096,
+    "long_domain": 26
+}{
+    "domain": "831-s828---3h95k7f2y1fmptyw.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.912113890972229,
+    "long_domain": 26
+}{
+    "domain": "5-----g----ms-12hy1cr1np0wic.org",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.912113890972229,
+    "long_domain": 26
+}{
+    "domain": "1------------m2mkyg1342k0q.com",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.912113890972229,
+    "long_domain": 26
+}{
+    "domain": "1-1-v-5-i4-23l15voh96950i05.com",
+    "is_dga": false,
+    "high_consonants": 11,
+    "high_entropy": 3.912113890972229,
+    "long_domain": 27
+}{
+    "domain": "1------7--3-04ncil87e6zmk.net",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.912113890972229,
+    "long_domain": 25
+}{
+    "domain": "1-------1---46brdecg1u2csv4.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.912113890972229,
+    "long_domain": 25
+}{
+    "domain": "101s--19-au-n1fad3i51j92rq2.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8063822994065495,
+    "long_domain": 25
+}{
+    "domain": "1----1f-q----ii79eqmosy9dm.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8063822994065495,
+    "long_domain": 25
+}{
+    "domain": "15--2--8t5-x-al20l1raf8cyi.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8063822994065495,
+    "long_domain": 25
+}{
+    "domain": "3--------7---1afa6gt1lmp969.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8063822994065495,
+    "long_domain": 27
+}{
+    "domain": "3-1-hqb17s--l-1ezqrh910gnxw8.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.9641534765420037,
+    "long_domain": 27
+}{
+    "domain": "5----3--------1gqgzlk1i8q21v.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.9641534765420037,
+    "long_domain": 27
+}{
+    "domain": "1-1x5zb1wglf3t1nzsxj2cy0poe.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.310443057719024,
+    "long_domain": 27
+}{
+    "domain": "1-1--ks-----w1b8tyt3njtpek.org",
+    "is_dga": true,
+    "high_consonants": 12,
+    "high_entropy": 4.310443057719024,
+    "long_domain": 27
+}{
+    "domain": "6----3----4-qc8vbxgsiz0wv.biz",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.310443057719024,
+    "long_domain": 27
+}{
+    "domain": "9--5-s5--9--9dcmw3u5dk20s.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.310443057719024,
+    "long_domain": 27
+}{
+    "domain": "1--8nr--q5--oq1yf5gg01m72yr4.biz",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 4.310443057719024,
+    "long_domain": 27
+}{
+    "domain": "05-8--9------arxfum12u3op3.org",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 4.310443057719024,
+    "long_domain": 26
+}{
+    "domain": "3----5---6--8laldgr13c4qhl.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.310443057719024,
+    "long_domain": 26
+}{
+    "domain": "171445--b-0-0ej2m3e2144fca.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.310443057719024,
+    "long_domain": 26
+}{
+    "domain": "102y30---8-z6ljib3u2r1gme.biz",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.003856189774725,
+    "long_domain": 26
+}{
+    "domain": "201101--79n1-3pcni8kfnmmqz.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.873140679513133,
+    "long_domain": 26
+}{
+    "domain": "1-----------qkkfde1pkuakh.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.873140679513133,
+    "long_domain": 26
+}{
+    "domain": "600-0y5703-2-az3yrs173z2bo.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.873140679513133,
+    "long_domain": 26
+}{
+    "domain": "1-0-so5---3--x1pjancxt2dszs.biz",
+    "is_dga": true,
+    "high_consonants": 12,
+    "high_entropy": 3.873140679513133,
+    "long_domain": 26
+}{
+    "domain": "2-1--6---5-8-12cqz7jtenqle.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.873140679513133,
+    "long_domain": 26
+}{
+    "domain": "3-8062--6----113v3vwb1rm8wx.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.873140679513133,
+    "long_domain": 26
+}{
+    "domain": "4773476-20x7frch9ufu4okhq.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.893660689688186,
+    "long_domain": 26
+}{
+    "domain": "10--l----6-3--1acf2kr1ymu6rz.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.893660689688186,
+    "long_domain": 26
+}{
+    "domain": "353461h55-059zk7iaygbsqs3.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.0536606896881855,
+    "long_domain": 26
+}{
+    "domain": "1451209-2nr-11mdzs3h3lpe9q.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.085055102756478,
+    "long_domain": 26
+}{
+    "domain": "5--2--7---3-g5gsa2w1kwpa59.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.085055102756478,
+    "long_domain": 26
+}{
+    "domain": "1-2---11-af--k13fk5xd1wwxg4m.com",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 4.085055102756478,
+    "long_domain": 26
+}{
+    "domain": "105-2b87603153ou3dk1dmhbtx.com",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 4.026986833359287,
+    "long_domain": 26
+}{
+    "domain": "1---k-----97-1p85d57izm3cg.org",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 4.026986833359287,
+    "long_domain": 26
+}{
+    "domain": "1----60-o--0-nf7g8h1iqokdb.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.026986833359287,
+    "long_domain": 26
+}{
+    "domain": "7--8----------1nkc8ki12hs5cg.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.026986833359287,
+    "long_domain": 26
+}{
+    "domain": "03-36b6---4ul298zw1nr9zou.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.9238561897747246,
+    "long_domain": 26
+}{
+    "domain": "4---41--5---5-1cue2oh1i9b1oc.biz",
+    "is_dga": false,
+    "high_consonants": 8,
+    "high_entropy": 3.9238561897747246,
+    "long_domain": 28
+}{
+    "domain": "1-------w-4--m1dy1k18faisr.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.9238561897747246,
+    "long_domain": 28
+}{
+    "domain": "1024c-z2t-ic7v1c0pfrk1217f2m.net",
+    "is_dga": true,
+    "high_consonants": 12,
+    "high_entropy": 3.9238561897747246,
+    "long_domain": 28
+}{
+    "domain": "1024uz--nb-ttohp2vn1pwlv8w.net",
+    "is_dga": true,
+    "high_consonants": 12,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 28
+}{
+    "domain": "4-5-06102-02421mz6nle1e4z2gr.org",
+    "is_dga": true,
+    "high_consonants": 12,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 28
+}{
+    "domain": "1--5j69k-p--zmy9y2z3gwzcg.net",
+    "is_dga": true,
+    "high_consonants": 13,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 28
+}{
+    "domain": "124--8a----4-g4nc4wjaiss8s.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 28
+}{
+    "domain": "10128-3xyu82aipm9w7euawqs.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.163856189774725,
+    "long_domain": 28
+}{
+    "domain": "1-4-p----68-7m10f6g14au50u6.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.163856189774725,
+    "long_domain": 27
+}{
+    "domain": "662---752m7q417ko0o11smootl.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.163856189774725,
+    "long_domain": 27
+}{
+    "domain": "5-129-4--4-451j5auh0z7vn3t.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8112314304963326,
+    "long_domain": 27
+}{
+    "domain": "2-----------8aptnn1l0cely.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8112314304963326,
+    "long_domain": 27
+}{
+    "domain": "172878i13266e-1bh5jg41iwmtg0.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.093069207771889,
+    "long_domain": 27
+}{
+    "domain": "10--781-5u39r1jl9l3eyxibth.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.103909910282364,
+    "long_domain": 27
+}{
+    "domain": "13-81584492-501h09stg1mf1ycs.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.892724905113432,
+    "long_domain": 27
+}{
+    "domain": "0-14i2-9-f6-11xftezk14rqu0f.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8380398168981547,
+    "long_domain": 27
+}{
+    "domain": "3--9--2----92c165mo19i4ico3.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8380398168981547,
+    "long_domain": 27
+}{
+    "domain": "1461----99-62-1ngjug01johzcg.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8380398168981547,
+    "long_domain": 27
+}{
+    "domain": "5------------zhwnbyk1pzp48r.com",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.8380398168981547,
+    "long_domain": 27
+}{
+    "domain": "102c-00-b1z7410bjhcc4h5gj1.org",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.8380398168981547,
+    "long_domain": 27
+}{
+    "domain": "102---------ac11wobrsys8x.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8380398168981547,
+    "long_domain": 27
+}{
+    "domain": "1--1---------mgtmbad1bgvh5y.org",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.8380398168981547,
+    "long_domain": 27
+}{
+    "domain": "1-----r------w94t58k17yfk5p.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8380398168981547,
+    "long_domain": 27
+}{
+    "domain": "1----9-11-3---1wl12fs1a9brr7.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8380398168981547,
+    "long_domain": 28
+}{
+    "domain": "972-5-o-pu--251badh38mqxe95.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.000645725252347,
+    "long_domain": 28
+}{
+    "domain": "2---7---4--6-qm67mkb1iur2x7.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.000645725252347,
+    "long_domain": 27
+}{
+    "domain": "11--5t--kyo--lk1i9xq13vq0id.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.000645725252347,
+    "long_domain": 27
+}{
+    "domain": "733-171430-95n13bi0ltwxswq4.biz",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.912113890972229,
+    "long_domain": 27
+}{
+    "domain": "2-3----2-----t8a5ze5167gisr.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.912113890972229,
+    "long_domain": 27
+}{
+    "domain": "7-----------1jf46aklxdl73.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.912113890972229,
+    "long_domain": 25
+}{
+    "domain": "47--s-8-d--28u1ak8rd5gv0j.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.912113890972229,
+    "long_domain": 25
+}{
+    "domain": "7-81182-5-772txr2jn21w048xf.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.912113890972229,
+    "long_domain": 25
+}{
+    "domain": "1-2gp247x-5q7oc65d21cmguq6.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.9021748142117283,
+    "long_domain": 25
+}{
+    "domain": "1-2hwx954u-py136yrg61ftresf.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.208410187268525,
+    "long_domain": 25
+}{
+    "domain": "1-39----4-4-951n9685jxb9fwk.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.208410187268525,
+    "long_domain": 27
+}{
+    "domain": "4-------o----p9vsh81edbpaz.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.208410187268525,
+    "long_domain": 27
+}{
+    "domain": "102--o-1--wn-rtlt9a31l4y4sw.net",
+    "is_dga": false,
+    "high_consonants": 10,
+    "high_entropy": 4.208410187268525,
+    "long_domain": 27
+}{
+    "domain": "24-1-0-0-301-mxdik3u13hwqlk.biz",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.208410187268525,
+    "long_domain": 27
+}{
+    "domain": "1---b--5--8-v-1ptxr2j1kh8hbg.org",
+    "is_dga": true,
+    "high_consonants": 12,
+    "high_entropy": 4.208410187268525,
+    "long_domain": 27
+}{
+    "domain": "15--h3----n9-e7cmhjkfnu8ni.biz",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.208410187268525,
+    "long_domain": 27
+}{
+    "domain": "8-1---------bptu19ccw6k1.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.208410187268525,
+    "long_domain": 24
+}{
+    "domain": "18---1-------v2slsr1i7jezi.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.208410187268525,
+    "long_domain": 26
+}{
+    "domain": "385k6137xe9y-c193obsd5lds69.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.032303242743953,
+    "long_domain": 26
+}{
+    "domain": "112645-x73-141y0oboa9q1dwv.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.023145853739677,
+    "long_domain": 26
+}{
+    "domain": "84-1-5-g-84031wlknw0mv25na.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8542858719872464,
+    "long_domain": 26
+}{
+    "domain": "102m75--i-56klqtf77nmax71y.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 26
+}{
+    "domain": "1------------r3hdyy1h1nnbo.biz",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 26
+}{
+    "domain": "6-1----9--11-21k1orun1216jg1.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 28
+}{
+    "domain": "10-ndq81kaz71d91ov0p7kd36d.biz",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8542858719872464,
+    "long_domain": 28
+}{
+    "domain": "1-9--589vo8p2-1wz59bm11922ux.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.8542858719872464,
+    "long_domain": 28
+}{
+    "domain": "63-6-0404p--5xdfdd1ly7xd5p.net",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 3.8542858719872464,
+    "long_domain": 28
+}{
+    "domain": "842663--17-7-1otv8bmu5keqw.biz",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 4.085055102756478,
+    "long_domain": 28
+}{
+    "domain": "1-----4------1czukmp1kf6mk5.com",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.085055102756478,
+    "long_domain": 28
+}{
+    "domain": "16----m--zm9-f1vps2swl8ni1v.com",
+    "is_dga": true,
+    "high_consonants": 12,
+    "high_entropy": 4.085055102756478,
+    "long_domain": 28
+}{
+    "domain": "83----7x-0--29p74gr1f9mstq.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.085055102756478,
+    "long_domain": 28
+}{
+    "domain": "9-22-36440n0-193ghxgq4aw3h.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.085055102756478,
+    "long_domain": 28
+}{
+    "domain": "122ooh1b-w7d513hxcvv1dgs6j3.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.014146761422728,
+    "long_domain": 28
+}{
+    "domain": "803-----4----7pkwfl8k86vyl.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.014146761422728,
+    "long_domain": 28
+}{
+    "domain": "11-1-348--5161b9ynj01e8jntm.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.014146761422728,
+    "long_domain": 28
+}{
+    "domain": "0-7606--84--1r5b2b4uheounw.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.869299699893523,
+    "long_domain": 28
+}{
+    "domain": "100-m781n4rpg15685xj1tos8us.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.060262039120377,
+    "long_domain": 28
+}{
+    "domain": "107--5284884712so5y5cjs6pn.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.873140679513133,
+    "long_domain": 28
+}{
+    "domain": "4-6-bq45-4--5z1y6ettaqob2xx.biz",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.873140679513133,
+    "long_domain": 28
+}{
+    "domain": "302-di37473j30dngly7qhwqeo.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.9790978911348054,
+    "long_domain": 28
+}{
+    "domain": "50262-3001-228gr49zv14kfvte.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.986187965046303,
+    "long_domain": 28
+}{
+    "domain": "90-6p57-3k-2gbcx6t5cezlilm.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.209867121904036,
+    "long_domain": 28
+}{
+    "domain": "002-zh17---34oy2xp91zygml7.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.9312089489103235,
+    "long_domain": 28
+}{
+    "domain": "1-2138-1--ia1h1a6lo921oiao7d.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.9312089489103235,
+    "long_domain": 28
+}{
+    "domain": "2260w797-i1c521e6hsoj15djfcr.net",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.110577243331642,
+    "long_domain": 28
+}{
+    "domain": "172sym5-2880bl7eakzrjt9i.biz",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.334962500721156,
+    "long_domain": 28
+}{
+    "domain": "4-3311--l0j5-jehwrzjpvgfnj.biz",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.9312089489103235,
+    "long_domain": 28
+}{
+    "domain": "8--t-s--9x6--1pau4nb1493jm6.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.9312089489103235,
+    "long_domain": 28
+}{
+    "domain": "685-2188g38--e444qjw1dmelly.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8841550945958043,
+    "long_domain": 28
+}{
+    "domain": "10------88--rkxctl0k1cu90.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8841550945958043,
+    "long_domain": 28
+}{
+    "domain": "5------9-----0zz6mkrz6bkww.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8841550945958043,
+    "long_domain": 28
+}{
+    "domain": "6--2-3s---1--146wn611d0wegv.biz",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8841550945958043,
+    "long_domain": 27
+}{
+    "domain": "5---3--9--2-8-1d2dh9x15n7s8t.biz",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8841550945958043,
+    "long_domain": 28
+}{
+    "domain": "9-9v7--45----33wiitpq5oojx.org",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 3.8841550945958043,
+    "long_domain": 26
+}{
+    "domain": "10-3kx76-b8--q167ldw6157097l.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8841550945958043,
+    "long_domain": 26
+}{
+    "domain": "4------------ogbufj7g4khv0.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8841550945958043,
+    "long_domain": 26
+}{
+    "domain": "78-3-6240----e1ktd737zatj5k.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8841550945958043,
+    "long_domain": 27
+}{
+    "domain": "55--0--b--0-debjzdie267fp.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8841550945958043,
+    "long_domain": 27
+}{
+    "domain": "1-----------451xu00tkk642oh.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8841550945958043,
+    "long_domain": 27
+}{
+    "domain": "67060-6-17-181ir4bhn4so1.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8841550945958043,
+    "long_domain": 24
+}{
+    "domain": "132zi-811-n3wo8jjrluyahvw5.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.13294404498096,
+    "long_domain": 24
+}{
+    "domain": "114-2z66-----1gatkk0ww0sx2.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.13294404498096,
+    "long_domain": 24
+}{
+    "domain": "1----i-1-7-6-515y1mvd19gom2j.biz",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.13294404498096,
+    "long_domain": 28
+}{
+    "domain": "03-958-7--4--7uknqsfetdvt2.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.95006375643621,
+    "long_domain": 28
+}{
+    "domain": "863-----v-ae-p10wu9e2r70yte.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.95006375643621,
+    "long_domain": 27
+}{
+    "domain": "17--xib6-6764182jp3ett88nm.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 3.921029621737615,
+    "long_domain": 27
+}{
+    "domain": "1-40--cf----l13ua3x20cldp.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.921029621737615,
+    "long_domain": 27
+}{
+    "domain": "1-5-h-p4-----jn2sat10uu25r.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.921029621737615,
+    "long_domain": 26
+}{
+    "domain": "1632p29m0---8pru7o21t15z7h.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.997952698660692,
+    "long_domain": 26
+}{
+    "domain": "1033-z7-d---sten4iczwptpq.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.859470570797252,
+    "long_domain": 26
+}{
+    "domain": "16-0-i5mi---cziksak1vrtnkm.biz",
+    "is_dga": true,
+    "high_consonants": 12,
+    "high_entropy": 3.859470570797252,
+    "long_domain": 26
+}{
+    "domain": "1530b77dl-0--1oht2bfifb27g.com",
+    "is_dga": true,
+    "high_consonants": 12,
+    "high_entropy": 3.8441065448145384,
+    "long_domain": 26
+}{
+    "domain": "5-6-x--5159--6cpe04h1jlw7qe.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8441065448145384,
+    "long_domain": 26
+}{
+    "domain": "1------8-----ge0kutu4d14a7.org",
+    "is_dga": false,
+    "high_consonants": 8,
+    "high_entropy": 3.8441065448145384,
+    "long_domain": 26
+}{
+    "domain": "5-2---9------124g89valef52.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.8441065448145384,
+    "long_domain": 26
+}{
+    "domain": "37-6-8-692--510ycuj97jgqlq.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.869299699893523,
+    "long_domain": 26
+}{
+    "domain": "2-7-4392456ycjfwzdcb8h6o.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.16829583405449,
+    "long_domain": 26
+}{
+    "domain": "7-------3--7-i1ugbvd5tsyhye.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.16829583405449,
+    "long_domain": 26
+}{
+    "domain": "77602t8480y8-f9qf2wj1oqayru.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.134336113194451,
+    "long_domain": 26
+}{
+    "domain": "42-----1-0-6-61g59i4f1ot8rhr.org",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 4.134336113194451,
+    "long_domain": 28
+}{
+    "domain": "5-0-75---44wyd64sgry0ur7d.net",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.134336113194451,
+    "long_domain": 28
+}{
+    "domain": "3075689---f-45l08a3xrjzig.org",
+    "is_dga": true,
+    "high_consonants": 9,
+    "high_entropy": 4.003856189774725,
+    "long_domain": 28
+}{
+    "domain": "1-39--z-s---s-1713pk21equ8de.com",
+    "is_dga": false,
+    "high_consonants": 9,
+    "high_entropy": 4.003856189774725,
+    "long_domain": 28
+}{
+    "domain": "1---22-----5-1fqvhqqrmn2ha.com",
+    "is_dga": true,
+    "high_consonants": 10,
+    "high_entropy": 4.003856189774725,
+    "long_domain": 28
+}{
+    "domain": "941-618-489-9j99ykyg155hg0x.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.003856189774725,
+    "long_domain": 28
+}{
+    "domain": "10-a--0----y-1fvx8tcxk143o.biz",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.003856189774725,
+    "long_domain": 28
+}{
+    "domain": "0--07--6p---215l04xurog89f.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.003856189774725,
+    "long_domain": 26
+}{
+    "domain": "4--------a--xvxdu39rh3s37.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.003856189774725,
+    "long_domain": 25
+}{
+    "domain": "0------67--u--1ow3zk21ad08q1.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 4.003856189774725,
+    "long_domain": 28
+}{
+    "domain": "1---v--------1qflgv2zhwgzo.com",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 4.003856189774725,
+    "long_domain": 28
+}{
+    "domain": "1----4--5---413it6qk1dw2vri.net",
+    "is_dga": true,
+    "high_consonants": 11,
+    "high_entropy": 4.003856189774725,
+    "long_domain": 27
+}{
+    "domain": "2-----c-15--1tnnbsxgrngd2d.biz",
+    "is_dga": true,
+    "high_consonants": 13,
+    "high_entropy": 4.003856189774725,
+    "long_domain": 27
+}{
+    "domain": "727-79u---56xn8h0vxuetmn90.biz",
+    "is_dga": true,
+    "high_consonants": 13,
+    "high_entropy": 3.825251737288651,
+    "long_domain": 27
+}{
+    "domain": "1---x--------112b6f0bdlfxa.com",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.825251737288651,
+    "long_domain": 27
+}{
+    "domain": "7------4-s---160wl5vpo6d3j.org",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.825251737288651,
+    "long_domain": 26
+}{
+    "domain": "4-7--1----8-191sr9uzjb6q1y8.net",
+    "is_dga": true,
+    "high_consonants": 8,
+    "high_entropy": 3.825251737288651,
+    "long_domain": 27
+}

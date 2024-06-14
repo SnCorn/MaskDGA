@@ -1,0 +1,2 @@
+Tổng số is_dga = true: 450
+Tổng số is_dga = false: 50
